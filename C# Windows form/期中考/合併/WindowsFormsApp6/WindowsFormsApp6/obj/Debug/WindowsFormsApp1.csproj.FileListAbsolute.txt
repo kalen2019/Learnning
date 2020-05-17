@@ -1,0 +1,14 @@
+F:\程式設計進階\homework\期中考\首頁\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.exe.config
+F:\程式設計進階\homework\期中考\首頁\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.exe
+F:\程式設計進階\homework\期中考\首頁\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.pdb
+F:\程式設計進階\homework\期中考\首頁\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+F:\程式設計進階\homework\期中考\首頁\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Properties.Resources.resources
+F:\程式設計進階\homework\期中考\首頁\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+F:\程式設計進階\homework\期中考\首頁\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.exe
+F:\程式設計進階\homework\期中考\首頁\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.pdb
+F:\程式設計進階\homework\期中考\首頁\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Form1.resources
+F:\程式設計進階\homework\期中考\首頁\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Form2.resources
+F:\程式設計進階\homework\期中考\首頁\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Form3.resources
+F:\程式設計進階\homework\期中考\首頁\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Form4.resources
+F:\程式設計進階\homework\期中考\首頁\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Form5.resources
+F:\程式設計進階\homework\期中考\首頁\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Form6.resources

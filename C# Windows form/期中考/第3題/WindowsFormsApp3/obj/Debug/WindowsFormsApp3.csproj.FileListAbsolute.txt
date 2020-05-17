@@ -1,0 +1,9 @@
+C:\Users\kalen.DESKTOP-N1NC4HH\Desktop\homework\期中考\第3題\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\kalen.DESKTOP-N1NC4HH\Desktop\homework\期中考\第3題\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\kalen.DESKTOP-N1NC4HH\Desktop\homework\期中考\第3題\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\kalen.DESKTOP-N1NC4HH\Desktop\homework\期中考\第3題\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csprojAssemblyReference.cache
+C:\Users\kalen.DESKTOP-N1NC4HH\Desktop\homework\期中考\第3題\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+C:\Users\kalen.DESKTOP-N1NC4HH\Desktop\homework\期中考\第3題\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\kalen.DESKTOP-N1NC4HH\Desktop\homework\期中考\第3題\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\kalen.DESKTOP-N1NC4HH\Desktop\homework\期中考\第3題\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\kalen.DESKTOP-N1NC4HH\Desktop\homework\期中考\第3題\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb

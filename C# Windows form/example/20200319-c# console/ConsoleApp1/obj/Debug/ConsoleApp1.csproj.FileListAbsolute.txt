@@ -1,0 +1,13 @@
+C:\Users\E321 - T1\Desktop\yxzhao\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\E321 - T1\Desktop\yxzhao\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\E321 - T1\Desktop\yxzhao\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\E321 - T1\Desktop\yxzhao\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\E321 - T1\Desktop\yxzhao\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\E321 - T1\Desktop\yxzhao\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\E321 - T1\Desktop\yxzhao\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+F:\程式設計進階\EXhomework\20200319-c# console\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+F:\程式設計進階\EXhomework\20200319-c# console\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+F:\程式設計進階\EXhomework\20200319-c# console\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+F:\程式設計進階\EXhomework\20200319-c# console\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+F:\程式設計進階\EXhomework\20200319-c# console\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+F:\程式設計進階\EXhomework\20200319-c# console\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
