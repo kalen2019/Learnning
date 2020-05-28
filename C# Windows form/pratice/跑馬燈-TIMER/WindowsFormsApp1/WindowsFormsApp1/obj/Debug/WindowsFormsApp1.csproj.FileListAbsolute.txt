@@ -1,0 +1,10 @@
+D:\程式設計進階\pratice\跑馬燈-TIMER\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\程式設計進階\pratice\跑馬燈-TIMER\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\程式設計進階\pratice\跑馬燈-TIMER\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\程式設計進階\pratice\跑馬燈-TIMER\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+D:\程式設計進階\pratice\跑馬燈-TIMER\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\程式設計進階\pratice\跑馬燈-TIMER\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\程式設計進階\pratice\跑馬燈-TIMER\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\程式設計進階\pratice\跑馬燈-TIMER\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\程式設計進階\pratice\跑馬燈-TIMER\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\程式設計進階\pratice\跑馬燈-TIMER\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
